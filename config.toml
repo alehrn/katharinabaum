@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://alehrn.github.io/katharinabaum/'
 languageCode = 'en-us'
 title = 'Home'
 theme = 'ananke'
+
+publishDir = "docs"
 
 
 [markup]
