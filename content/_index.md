@@ -14,6 +14,6 @@ I’ve always enjoyed exploring questions that sit at the intersection of techno
 When I’m not working, I enjoy diving into new ideas, collaborating on meaningful projects, and finding ways to use technology to make a positive difference. Let’s connect and see where our interests align!
 </div>
 
-[Download CV](/CV/CV_Katharina_Baum_Vienna.pdf)
+[Download CV](cv/CV_Katharina_Baum_Vienna.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/katharina-baum-27a348143) | [ResearchGate](https://www.researchgate.net/profile/Katharina-Baum-2)
