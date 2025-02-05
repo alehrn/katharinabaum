@@ -4,7 +4,7 @@ draft = false
 title = 'Katharina Baum'
 +++
 
-<img src="/images/Katharina_Baum.jpg" alt="Portrait of You" style="max-width: 150px; border-radius: 50%; display: block; margin: 0 auto; margin-bottom: 20px;" />
+<img src="images/Katharina_Baum.jpg" alt="Portrait of You" style="max-width: 150px; border-radius: 50%; display: block; margin: 0 auto; margin-bottom: 20px;" />
 
 <div style="text-align: justify;">
 Hi, I’m Katharina Baum. I’m a researcher focused on understanding how social media impacts both individuals and society. My work looks at topics like privacy, well-being, and how technology can be designed to support a healthier and more sustainable digital experience. I use methods like surveys, experiments, and computational analysis to get a well-rounded view of these challenges.
